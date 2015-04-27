@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font\Terminal.spritefont</Source>
+      <Name>Font\Terminal</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Font\Terminal.xnb</Output>
+      <Time>2012-08-25T18:03:04.6074571-04:00</Time>
+    </Item>
+    <Item>
+      <Source>The Room.png</Source>
+      <Name>The Room</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\The Room.xnb</Output>
+      <Time>2012-08-26T12:19:07.0162007-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\BarGuy.png</Source>
+      <Name>Character\BarGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\BarGuy.xnb</Output>
+      <Time>2012-08-26T02:54:46.3800772-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\ClassyGuy.png</Source>
+      <Name>Character\ClassyGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\ClassyGuy.xnb</Output>
+      <Time>2012-08-26T02:54:02.6215744-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\MainGuy.png</Source>
+      <Name>Character\MainGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\MainGuy.xnb</Output>
+      <Time>2012-08-26T02:53:49.013796-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\MustacheGuy.png</Source>
+      <Name>Character\MustacheGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\MustacheGuy.xnb</Output>
+      <Time>2012-08-26T02:54:19.4625376-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Regular1.png</Source>
+      <Name>Character\Regular1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\Regular1.xnb</Output>
+      <Time>2012-08-26T02:54:12.9471649-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Regular2.png</Source>
+      <Name>Character\Regular2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\Regular2.xnb</Output>
+      <Time>2012-08-26T02:54:28.9250788-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\Regular3.png</Source>
+      <Name>Character\Regular3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\Regular3.xnb</Output>
+      <Time>2012-08-26T02:54:37.8905916-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\SpyGuy.png</Source>
+      <Name>Character\SpyGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\SpyGuy.xnb</Output>
+      <Time>2012-08-26T02:44:38.9143321-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\SuitGuy.png</Source>
+      <Name>Character\SuitGuy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\SuitGuy.xnb</Output>
+      <Time>2012-08-26T02:53:56.4322203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TextBox.png</Source>
+      <Name>TextBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\TextBox.xnb</Output>
+      <Time>2012-08-26T16:37:02.7944537-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpyContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-06T21:49:27.872355-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

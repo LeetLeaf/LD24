@@ -1,0 +1,18 @@
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Font\Terminal.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\The Room.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\BarGuy.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\ClassyGuy.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\MainGuy.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\MustacheGuy.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\Regular1.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\Regular2.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\Regular3.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\SpyGuy.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\Character\SuitGuy.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\Content\TextBox.xnb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\LD24_GermSuperSpy.exe
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\bin\x86\Release\LD24_GermSuperSpy.pdb
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\obj\x86\Release\LD24_GermSuperSpy.exe
+C:\Users\1\documents\visual studio 2010\Projects\LD24_GermSuperSpy\LD24_GermSuperSpy\LD24_GermSuperSpy\obj\x86\Release\LD24_GermSuperSpy.pdb
